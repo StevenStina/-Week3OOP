@@ -25,7 +25,7 @@ public class CalcApp {
 
         int result = myCalc.add_numbers(firstnumber, secondnumber);
         System.out.println("The total is " + result);
-//
+
         scan1.close();
     }
 }
